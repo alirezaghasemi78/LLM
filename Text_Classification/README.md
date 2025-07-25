@@ -100,6 +100,7 @@ from pyngrok import ngrok
 public_url = ngrok.connect(8501)
 print(public_url)
 ```
+<img width="991" height="725" alt="image" src="https://github.com/user-attachments/assets/f2350606-0cd0-4dbd-8518-c895af38b8e3" />
 
 ---
 
