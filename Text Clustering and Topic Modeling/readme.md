@@ -6,7 +6,7 @@ This project explores **unsupervised topic modeling and clustering** on the AG N
 
 ## 📚 Dataset
 
-We use the [AG News dataset](https://huggingface.co/datasets/ag_news) from HuggingFace 🤗. It contains:
+We use the [AG News dataset] from HuggingFace 🤗. It contains:
 
 - 120,000 training samples
 - 7,600 test samples  
