@@ -1,0 +1,7 @@
+# Dataset and data processing
+datasets
+pandas
+hazm
+tqdm
+FlagEmbedding
+qdrant-client
